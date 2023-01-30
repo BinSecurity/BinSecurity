@@ -4,7 +4,7 @@
 
 本项目是记录自己在学习二进制安全过程中遇到的优秀内容，包括优秀的项目代码或研究成果等。打破二进制的安全壁垒，直至逆向封神！向伟大的0和1发起挑战！面向兴趣终生学习！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2022年12月25日，最近的一次更新时间为2022年12月28日。
+本项目创建于2022年12月25日，最近的一次更新时间为2023年1月30日。
 
 - [01-二进制安全资源]()
 - [02-二进制安全测试]()
@@ -53,6 +53,7 @@
 - https://xz.aliyun.com/node/23
 - https://www.freebuf.com/articles/network/269658.html
 - https://codeantenna.com/a/z5ZjHwmGP8
+- https://github.com/sdutjava1604/binary-introductory-books-for-beginners
 
 ## 02-二进制安全测试
 
