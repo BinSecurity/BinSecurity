@@ -2,9 +2,9 @@
 
 ![BinSecurity](https://socialify.git.ci/BinSecurity/BinSecurity/image?description=1&font=Inter&forks=1&issues=1&name=1&owner=0&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
 
-本项目是记录自己在学习二进制安全过程中遇到的优秀内容，包括优秀的项目代码或研究成果等。打破二进制的安全壁垒，直至逆向封神！向伟大的0和1发起挑战！面向兴趣终生学习！作者：[0e0w](https://github.com/0e0w)
+本项目是记录自己在学习二进制安全过程中遇到的优秀内容，包括优秀的项目代码或研究成果等。打破二进制的安全壁垒，直至逆向封神！世界上只有10种人，懂二进制的和不懂二进制的！向伟大的0和1发起挑战！面向兴趣终生学习！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2022年12月25日，最近的一次更新时间为2023年1月30日。
+本项目创建于2022年12月25日，最近的一次更新时间为2023年5月6日。
 
 - [01-二进制安全资源]()
 - [02-二进制安全测试]()
@@ -20,6 +20,7 @@
 - [x] [《加密与解密》](https://item.jd.com/12395765.html)@段钢
 - [x] [《0day安全：软件漏洞分析技术》](https://item.jd.com/10057792652168.html)@王清
 - [x] [《漏洞战争：软件漏洞分析精要》](https://item.jd.com/11983614.html)@林桠泉
+- [ ] [《二进制分析实战》](https://item.jd.com/13470330.html)@刘杰宏等译
 - [ ] [《恶意代码分析实战》](https://item.jd.com/13006024.html)@诸葛建伟译
 - [ ]  [《逆向工程实战》](https://item.jd.com/45896811086.html)@单业译
 - [ ] [《逆向分析实战》](https://item.jd.com/12280705.html)@冀云
