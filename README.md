@@ -2,17 +2,16 @@
 
 ![BinSecurity](https://socialify.git.ci/BinSecurity/BinSecurity/image?description=1&font=Inter&forks=1&issues=1&name=1&owner=0&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
 
-本项目是记录自己在学习二进制安全过程中遇到的优秀内容，包括优秀的项目代码或研究成果等。打破二进制的安全壁垒，直至逆向封神！世界上只有10种人，懂二进制的和不懂二进制的！向伟大的0和1发起挑战！面向兴趣终生学习！作者：[0e0w](https://github.com/0e0w)
+本项目是记录自己在学习二进制安全过程中遇到的优秀内容，包括优秀的项目代码或研究成果等。世界上只有10种人，懂二进制的和不懂二进制的。打破二进制的安全壁垒，直至封神！向0和1发起挑战！作者：[0e0w](https://github.com/0e0w)
 
 本项目创建于2022年12月25日，最近的一次更新时间为2023年5月6日。
 
 - [01-二进制安全资源]()
-- [02-二进制安全测试]()
-- [03-二进制安全工具]()
-- [04-二进制逆向工程]()
-- [05-二进制病毒分析]()
-- [06-二进制漏洞挖掘]()
-- [07-二进制安全老师]()
+- [02-二进制安全工具]()
+- [03-二进制安全测试]()
+- [04-二进制病毒分析]()
+- [05-二进制漏洞挖掘]()
+- [06-二进制安全老师]()
 
 ## 01-二进制安全资源
 
@@ -55,8 +54,22 @@
 - https://www.freebuf.com/articles/network/269658.html
 - https://codeantenna.com/a/z5ZjHwmGP8
 - https://github.com/sdutjava1604/binary-introductory-books-for-beginners
+- https://github.com/BinSecurity/Reverse
 
-## 02-二进制安全测试
+## 02-二进制安全工具
+
+- https://github.com/BinSecurity/Toolkit
+- https://github.com/BinSecurity/IDAPro
+- https://github.com/BinSecurity/OllyDbg
+- https://github.com/BinSecurity/Ghidra
+- https://gitee.com/samllpig/SafeTool-51testing
+- https://github.com/redballoonsecurity/ofrak
+- https://github.com/google/binnavi
+
+## 03-二进制安全测试
+
+- https://github.com/BinSecurity/EXE
+- https://github.com/BinSecurity/ELF
 
 一、测试项目汇总
 
@@ -65,28 +78,15 @@
 
 三、测试文档资源
 
-## 03-二进制安全工具
-
-- https://github.com/BinSecurity/IDAPro
-- https://github.com/BinSecurity/OllyDbg
-- https://github.com/BinSecurity/Ghidra
-- https://gitee.com/samllpig/SafeTool-51testing
-- https://github.com/redballoonsecurity/ofrak
-- https://github.com/google/binnavi
-
-## 04-二进制逆向工程
-
-- https://github.com/BinSecurity/Reverse
-
-## 05-二进制病毒分析
+## 04-二进制病毒分析
 
 - https://github.com/BinSecurity/Malware
 
-## 06-二进制漏洞挖掘
+## 05-二进制漏洞挖掘
 
 - https://github.com/BinSecurity/BinExploit
 
-## 07-二进制安全老师
+## 06-二进制安全老师
 
 此处排名不分先后，向自己在学习二进制安全过程中遇到的每一位优秀老师致敬。感谢！
 
