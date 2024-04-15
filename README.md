@@ -4,7 +4,7 @@
 
 本项目是记录自己在学习二进制安全过程中遇到的优秀内容，包括优秀的项目代码或研究成果等。世界上只有10种人，懂二进制的和不懂二进制的。打破二进制的安全壁垒，直至封神！向0和1发起挑战！作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2022年12月25日，最近的一次更新时间为2023年5月6日。
+本项目创建于2022年12月25日，最近的一次更新时间为2024年4月15日。
 
 - [01-二进制安全资源]()
 - [02-二进制安全工具]()
@@ -41,6 +41,7 @@
 - https://www.52pojie.cn
 - https://www.kanxue.com
 - https://www.chinapyg.com
+- https://www.xuenixiang.com
 
 六、二进制其他资源
 - https://github.com/0th3rs-Security-Team/Binary-Security-Advanced-References
@@ -66,6 +67,7 @@
 - https://gitee.com/samllpig/SafeTool-51testing
 - https://github.com/redballoonsecurity/ofrak
 - https://github.com/google/binnavi
+- https://github.com/indetectables-net/toolkit
 
 ## 03-二进制安全测试
 
